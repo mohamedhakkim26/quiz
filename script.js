@@ -1,8 +1,8 @@
 const questions=[
     {
-        questions: "Which of the following options is correct with regard to HTML?",
+        questions: "Do you like peer learning",
         answers :[
-            {text: "It is used to structure documents", correct:true},
+            {text: "It is used to structure document", correct:true},
             {text: "It is a modelling language", correct:false},
             {text: "It is a scripting language", correct:false},
             {text: "It is a partial programming language", correct:false},
